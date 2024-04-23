@@ -24,5 +24,3 @@ To play the game, follow these steps:
 - Misses are represented by "m" on the board.
 - Hits are represented by "x" on the board.
 - The game is over when all ships have been sunk.
-
-Enjoy playing Battleship!
